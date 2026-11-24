@@ -3,7 +3,7 @@
 `contracts/Pool.sol` is a simple ETH pool: deposit ETH for shares, withdraw ETH
 by burning shares. The value of a share should never go down.
 
-## GooglePlay/googlewalletPlay 
+## GooglePlay/google Wallet
 
 ```sh
 npm ci
